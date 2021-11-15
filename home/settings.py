@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'app_manage',
     'app_collect',
     'app_expect',
+    'app_model',
 ]
 
 MIDDLEWARE = [
